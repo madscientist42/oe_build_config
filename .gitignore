@@ -1,0 +1,7 @@
+# Drop appropriate things in here.  .bak, *~ and the like do not
+# belong in the repo unless explicitly PUSHED to the same.
+*~
+*.bak
+*.o
+*.ko
+
