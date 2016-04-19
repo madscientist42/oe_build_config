@@ -4,4 +4,9 @@
 *.bak
 *.o
 *.ko
-
+*.lock
+cache
+conf/sanity_info
+downloads
+sstate-cache
+tmp
