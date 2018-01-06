@@ -10,3 +10,4 @@ conf/sanity_info
 downloads
 sstate-cache
 tmp
+bitbake-cookerdaemon.log
