@@ -11,3 +11,8 @@ downloads
 sstate-cache
 tmp
 bitbake-cookerdaemon.log
+pn-buildlist
+recipe-depends.dot
+task-depends.dot
+xdg-3.0.2-py2.py3-none-any.whl
+xdg-3.0.2.tar.gz
